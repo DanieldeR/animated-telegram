@@ -5,3 +5,6 @@ df = pd.DataFrame()
 
 #Implementing the plot
 df.plot()
+
+#Implementing a new plot
+df.plot(something_cool)
