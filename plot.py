@@ -7,4 +7,4 @@ df = pd.DataFrame()
 df.plot()
 
 #Implementing a new plot
-df.plot(something_cool)
+df.plot(very_serious)
